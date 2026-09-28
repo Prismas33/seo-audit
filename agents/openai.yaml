@@ -1,0 +1,7 @@
+interface:
+  display_name: "SEO Audit & Improvement"
+  short_description: "Evidence-led SEO audits and safe improvements"
+  default_prompt: "Use $seo-audit to inspect this website, identify missing inputs, and improve its SEO without inventing business or content facts."
+
+policy:
+  allow_implicit_invocation: true
